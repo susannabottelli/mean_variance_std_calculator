@@ -1,4 +1,4 @@
-# standard_deviation_calculator
+# Mean, Variance & Standard Deviation Calculator
 Academic Data Analysis project.
 
 ### Assignment
