@@ -54,3 +54,4 @@ def calculate(list) :
     'min': [min_axis1, min_axis2, min_f],
     'sum': [sum_axis1, sum_axis2, sum_f]
     }
+
